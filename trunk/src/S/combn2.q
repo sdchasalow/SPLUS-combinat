@@ -1,3 +1,5 @@
+# $Id$
+
 "combn2"<-
 function(x, n)
 {

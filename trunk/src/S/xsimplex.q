@@ -1,3 +1,5 @@
+# $Id$
+
 "xsimplex"<-
 function(p, n, fun = NULL, simplify = T, ...)
 {

@@ -1,3 +1,5 @@
+# $Id$
+
 "hcube"<-
 function(x, scale, translation)
 {

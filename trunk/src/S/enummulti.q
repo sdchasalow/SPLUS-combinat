@@ -1,3 +1,5 @@
+# $Id$
+
 "enummulti"<-
 function(k, n)
 {

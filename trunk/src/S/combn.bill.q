@@ -1,3 +1,5 @@
+# $Id$
+
 "combn.bill"<-
 function(n, k, set = 1:n)
 {

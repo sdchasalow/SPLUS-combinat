@@ -1,3 +1,5 @@
+# $Id$
+
 "combn.OLD"<-
 function(x, m = 2, sort.it = T)
 {

@@ -1,3 +1,5 @@
+# $Id$
+
 "logfact.BAK"<-
 function(x)
 {

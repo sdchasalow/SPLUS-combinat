@@ -1,3 +1,5 @@
+# $Id$
+
 "rmult"<-
 function(reps, n, p)
 {

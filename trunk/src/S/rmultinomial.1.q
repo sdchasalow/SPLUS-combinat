@@ -1,3 +1,5 @@
+# $Id$
+
 "rmultinomial.1"<-
 function(n, p)
 {

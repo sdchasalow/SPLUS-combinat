@@ -1,3 +1,5 @@
+# $Id$
+
 "nCm"<-
 function(n, m, tol = 1e-008)
 {

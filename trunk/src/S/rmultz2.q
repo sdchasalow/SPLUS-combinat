@@ -1,3 +1,5 @@
+# $Id$
+
 "rmultz2"<-
 function(n, p, draws = length(n))
 {

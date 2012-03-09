@@ -1,3 +1,5 @@
+# $Id$
+
 "nCm.scalar"<-
 function(n, m)
 {

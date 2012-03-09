@@ -1,3 +1,5 @@
+# $Id$
+
 "nchoosem"<-
 function(n, m)
 {

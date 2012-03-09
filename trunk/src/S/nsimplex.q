@@ -1,3 +1,5 @@
+# $Id$
+
 "nsimplex"<-
 function(p, n)
 {

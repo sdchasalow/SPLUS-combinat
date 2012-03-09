@@ -1,3 +1,5 @@
+# $Id$
+
 "rmultinomial.old"<-
 function(n, p, rows = max(c(length(n), nrow(p))))
 {

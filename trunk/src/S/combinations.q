@@ -1,3 +1,5 @@
+# $Id$
+
 "combinations"<-
 function(n, k)
 {

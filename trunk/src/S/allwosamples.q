@@ -1,3 +1,5 @@
+# $Id$
+
 "allwosamples"<-
 function(n, k)
 {

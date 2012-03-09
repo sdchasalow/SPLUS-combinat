@@ -1,3 +1,5 @@
+# $Id$
+
 "dmnom"<-
 function(x, size = sum(x), prob = stop("no prob arg"))
 {

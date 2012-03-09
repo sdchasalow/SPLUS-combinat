@@ -1,3 +1,5 @@
+# $Id$
+
 "x2u"<-
 function(x, labels = seq(along = x))
 {

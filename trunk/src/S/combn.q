@@ -1,3 +1,5 @@
+# $Id$
+
 "combn"<-
 function(x, m, fun = NULL, simplify = T, ...)
 {

@@ -1,3 +1,5 @@
+# $Id$
+
 "permn"<-
 function(x, fun = NULL, ...)
 {

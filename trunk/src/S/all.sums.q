@@ -1,3 +1,5 @@
+# $Id$
+
 "all.sums"<-
 function(total, parts)
 {

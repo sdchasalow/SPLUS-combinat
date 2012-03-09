@@ -1,3 +1,5 @@
+# $Id$
+
 "permn2"<-
 function(x, n)
 {
